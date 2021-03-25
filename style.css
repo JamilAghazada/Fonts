@@ -1,0 +1,42 @@
+/* all p-tags */
+p {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+@font-face{
+  font-family: 'Dancing Scripts Normal';
+  src: url(DancingScript-VariableFont_wght.ttf);
+}
+@font-face{
+  font-family: 'Dancing Scripts Bol';
+  src: url(static/DancingScript-Bold.ttf);
+}
+@font-face{
+  font-family: 'Dancing Scripts Medium';
+  src: url(static/DancingScript-Medium.ttf);
+}
+@font-face{
+  font-family: 'Dancing Scripts Regular';
+  src: url(static/DancingScript-Regular.ttf);
+}
+@font-face{
+  font-family: 'Dancing Scripts SemiBold';
+  src: url(static/DancingScript-SemiBold.ttf);
+}
+
+
+
+
+/* paragraph 1 */
+.thought1 {
+  font-weight: bolder;
+}
+
+/* paragraph 2 */
+.thought2 {
+  font-size: 24px;
+}
+
+/* paragraph 3 */
+.thought3 {
+  line-height: 50px;
+}
